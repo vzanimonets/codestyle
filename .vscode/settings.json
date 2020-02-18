@@ -1,0 +1,26 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "window.zoomLevel": 0,
+  "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+      "editor.formatOnSave": true
+  },
+  "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.implicitProjectConfig.experimentalDecorators": true,
+  // Set the default
+"editor.formatOnSave": false,
+"[html]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"[json]": {
+  "editor.defaultFormatter": "vscode.json-language-features"
+},
+"explorer.confirmDelete": false,
+"javascript.updateImportsOnFileMove.enabled": "always",
+"prettier.useEditorConfig": false
+}
